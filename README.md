@@ -1,8 +1,8 @@
 # Weekender
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/weekender`. To experiment with that code, run `bin/console` for an interactive prompt.
+A library & command line interface for [MTA's Weekender](http://web.mta.info/weekender.html).
 
-TODO: Delete this and the text above, and describe your gem
+Ye age olde art of web scraping.
 
 ## Installation
 
@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### From The Command Line
+
+TODO: put something useful here.
+
+### In Your Application
+
+TODO: put something useful here.
 
 ## Development
 
@@ -32,7 +38,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/weekender. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/danamansana/weekender. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
@@ -40,4 +46,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Weekender project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/weekender/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Weekender project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/danamansana/weekender/blob/master/CODE_OF_CONDUCT.md).
