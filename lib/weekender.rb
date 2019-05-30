@@ -1,6 +1,9 @@
 require "weekender/version"
 
-module Weekender
+class Weekender
   class Error < StandardError; end
-  # Your code goes here...
+
+  def self.get_status (line: nil)
+    "#{line} is running late"
+  end
 end

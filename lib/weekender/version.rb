@@ -1,3 +1,3 @@
-module Weekender
+class Weekender
   VERSION = "0.1.0"
 end
