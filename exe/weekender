@@ -2,4 +2,4 @@
 
 require 'weekender'
 
-Weekender.get_status 'F' 
+puts Weekender.get_status(line: 'F')
